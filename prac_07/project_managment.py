@@ -1,5 +1,6 @@
 import csv
 from datetime import datetime
+
 from project import Project
 
 FILENAME = "projects.txt"
